@@ -14,4 +14,4 @@ steps:
   image: alpine
   commands:
   - echo hello122222
-  - echo world
+  - echo hello
