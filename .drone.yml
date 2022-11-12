@@ -13,5 +13,5 @@ steps:
 - name: greeting
   image: alpine
   commands:
+  - echo hello122222
   - echo hello
-  - echo world
